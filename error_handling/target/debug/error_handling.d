@@ -1,0 +1,1 @@
+/mnt/workdrive/Documents/GIT/rust-learning/error_handling/target/debug/error_handling: /mnt/workdrive/Documents/GIT/rust-learning/error_handling/src/main.rs /mnt/workdrive/Documents/GIT/rust-learning/error_handling/src/test_func.rs
